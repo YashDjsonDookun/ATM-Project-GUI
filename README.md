@@ -6,8 +6,14 @@
 (until further notice, have a good time cringing at my bad code XD)
 
 StudentName: Yash Djson Dookun
+
+
 Course: BSc (Hons.) Web & Multimedia Development
+
+
 What does this Program do?
+
+
 - Create a Graphical User Interface (GUI) and a Java Program that mimics the
 function of an ATM Machine. (with features as per – but not limited to –
 requirement sheet)
