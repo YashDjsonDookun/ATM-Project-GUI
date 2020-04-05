@@ -1,4 +1,4 @@
-/* StudentID: 1810111
+/*
  * StudentName: Yash Djson Dookun
  * Task: Create a Graphical User Interface (GUI) and a Java Program that mimics
  * 		 the function of an ATM Machine.
