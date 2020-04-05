@@ -27,10 +27,10 @@ Version: 2019-03 (4.11.0)
 - [x] IntelliJ IDEA 2019.1.1))
 - [x] Java (Version Used: 11.0.2)
 (Recommended same is used or Potential User will have to re-compile)
-- [x] MySQL-Connector JDBC Driver
+- MySQL-Connector JDBC Driver
 (mysql-connector-java-8.0.15.jar used) – Included in Project Folder for ease of
 use
-- [x] Basic understanding of your IDE to configure the buildpath
+- Basic understanding of your IDE to configure the buildpath
 
 
 Included:
@@ -38,8 +38,8 @@ Included:
 - [x] atm_main.java (Main Method)
 - [x] atm_gui.java (GUI Class)
 - [x] ConnectDatabase.java (Class Responsible to establish Primary Connection)
-- [x] mysql-connector-java-8.0.15.jar
-- [x] Basic Flowchart demonstrating the flow of ATM Execution
+- mysql-connector-java-8.0.15.jar
+- Basic Flowchart demonstrating the flow of ATM Execution
 
 
 How to launch?
