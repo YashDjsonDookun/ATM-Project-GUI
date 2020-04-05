@@ -79,7 +79,7 @@ account and empty the latter
 button acts literally as a CLEAR button and not a BACKSPACE button) –
 Also, to note that this works only while entering Amounts and not for Pin
 Code
-- [x]Ability to verify NEW balance by clicking ‘OPTION 1’ after successful
+- [x] Ability to verify NEW balance by clicking ‘OPTION 1’ after successful
 transaction without having to exit and launch program again.
 
 
