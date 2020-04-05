@@ -17,6 +17,8 @@ What does this Program do?
 - Create a Graphical User Interface (GUI) and a Java Program that mimics the
 function of an ATM Machine. (with features as per – but not limited to –
 requirement sheet)
+
+
 Pre-Requisites:
 - Some Java IDE
 (Tested on:
@@ -29,6 +31,8 @@ Version: 2019-03 (4.11.0)
 (mysql-connector-java-8.0.15.jar used) – Included in Project Folder for ease of
 use
 - Basic understanding of your IDE to configure the buildpath
+
+
 Included:
 - 3 JAVA files (in src folder)
  atm_main.java (Main Method)
@@ -36,6 +40,8 @@ Included:
  ConnectDatabase.java (Class Responsible to establish Primary Connection)
 - mysql-connector-java-8.0.15.jar
 - Basic Flowchart demonstrating the flow of ATM Execution
+
+
 How to launch?
 - Import the Java Project Folder in IDE of choice (Tested in Eclipse and JetBrains
 IntelliJ IDEA)  Project folder is ‘ATM’
@@ -49,9 +55,13 @@ successfully, GUI will NOT even launch.
 - Run Main Method (if everything went fine, a successful message should
 appear in the Console – only for developer use; & GUI should appear for
 client)
+
+
 What Works?
 - Simply everything that was asked in the requirements
-- What was Tested?
+
+
+What was Tested?
  Everything
  In eventuality of wrong Pin codes (both after single tries and the 3 wrong
 tries)
@@ -71,6 +81,8 @@ Also, to note that this works only while entering Amounts and not for Pin
 Code
 - Ability to verify NEW balance by clicking ‘OPTION 1’ after successful
 transaction without having to exit and launch program again.
+
+
 KNOWN BUG:
 - If card is inserted again in the same launch session after having clicked Exit
 (Did not bother to fix it because it is beyond Requirements Scope)
