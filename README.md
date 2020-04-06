@@ -82,7 +82,6 @@ Code
 - [x] Ability to verify NEW balance by clicking ‘OPTION 1’ after successful
 transaction without having to exit and launch program again.
 
-
 KNOWN BUG:
 - [x] If card is inserted again in the same launch session after having clicked Exit
 (Did not bother to fix it because it is beyond Requirements Scope)
